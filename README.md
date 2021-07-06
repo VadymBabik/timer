@@ -1,6 +1,6 @@
 # Project: Timer
 
-###[Pages](https://vadymbabik.github.io/timer/)
+## [Pages](https://vadymbabik.github.io/timer/)
 
 
  ### **ТЗ**
